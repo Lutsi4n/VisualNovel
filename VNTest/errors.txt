@@ -1,0 +1,11 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 513: invalid syntax
+    from game.miniGames.StreetFighter import RunFight()
+                                                      ^
+    
+
+Ren'Py Version: Ren'Py 8.0.3.22090809
+Thu Jun  1 10:09:08 2023
